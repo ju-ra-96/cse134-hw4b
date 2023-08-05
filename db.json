@@ -1,0 +1,94 @@
+{
+    "projects": [
+        {
+            "title": "Project Title 1",
+            "description": "Description for the first project. Overview of project goals and outcomes.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image1.png",
+            "altText": "Image for Project 1",
+            "date": "2023-01-01",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 2",
+            "description": "Description for the second project. Highlights features and objectives.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image2.png",
+            "altText": "Image for Project 2",
+            "date": "2023-01-15",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 3",
+            "description": "Description for the third project. Details on challenges and solutions.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image3.png",
+            "altText": "Image for Project 3",
+            "date": "2023-02-01",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 4",
+            "description": "Description for the fourth project. Insight into the methodology used.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image4.png",
+            "altText": "Image for Project 4",
+            "date": "2023-02-15",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 5",
+            "description": "Description for the fifth project. Overview of project results and impact.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image5.png",
+            "altText": "Image for Project 5",
+            "date": "2023-03-01",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 6",
+            "description": "Description for the sixth project. Details about the technology stack used.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image6.png",
+            "altText": "Image for Project 6",
+            "date": "2023-03-15",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 7",
+            "description": "Description for the seventh project. Insights into the user experience design.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image7.png",
+            "altText": "Image for Project 7",
+            "date": "2023-04-01",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 8",
+            "description": "Description for the eighth project. Breakdown of project milestones and timeline.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image8.png",
+            "altText": "Image for Project 8",
+            "date": "2023-04-15",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 9",
+            "description": "Description for the ninth project. Overview of key partnerships and collaborations.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image9.png",
+            "altText": "Image for Project 9",
+            "date": "2023-05-01",
+            "author": "Author Name"
+        },
+        {
+            "title": "Project Title 10",
+            "description": "Description for the tenth project. Highlights of feedback and testimonials.",
+            "url": "https://github.com/ju-ra-96",
+            "image": "./img/image10.png",
+            "altText": "Image for Project 10",
+            "date": "2023-05-15",
+            "author": "Author Name"
+        }
+    ]
+}
