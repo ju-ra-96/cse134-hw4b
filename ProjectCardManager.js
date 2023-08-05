@@ -92,7 +92,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 1",
                         "description": "Description for the first project. Overview of project goals and outcomes.",
-                        "url": "https://www.projecturl1.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image11.png",
                         "altText": "Image for Project 1",
                         "date": "2023-06-01",
@@ -101,7 +101,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 2",
                         "description": "Description for the second project. Highlights features and objectives.",
-                        "url": "https://www.projecturl2.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image12.png",
                         "altText": "Image for Project 2",
                         "date": "2023-06-15",
@@ -110,7 +110,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 3",
                         "description": "Description for the third project. Details on challenges and solutions.",
-                        "url": "https://www.projecturl3.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image13.png",
                         "altText": "Image for Project 3",
                         "date": "2023-07-01",
@@ -119,7 +119,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 4",
                         "description": "Description for the fourth project. Insight into the methodology used.",
-                        "url": "https://www.projecturl4.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image14.png",
                         "altText": "Image for Project 4",
                         "date": "2023-07-15",
@@ -128,7 +128,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 5",
                         "description": "Description for the fifth project. Overview of project results and impact.",
-                        "url": "https://www.projecturl5.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image15.png",
                         "altText": "Image for Project 5",
                         "date": "2023-08-01",
@@ -137,7 +137,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 6",
                         "description": "Description for the sixth project. Details about the technology stack used.",
-                        "url": "https://www.projecturl6.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image16.png",
                         "altText": "Image for Project 6",
                         "date": "2023-08-15",
@@ -146,7 +146,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 7",
                         "description": "Description for the seventh project. Insights into the user experience design.",
-                        "url": "https://www.projecturl7.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image17.png",
                         "altText": "Image for Project 7",
                         "date": "2023-09-01",
@@ -155,7 +155,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 8",
                         "description": "Description for the eighth project. Breakdown of project milestones and timeline.",
-                        "url": "https://www.projecturl8.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image18.png",
                         "altText": "Image for Project 8",
                         "date": "2023-09-15",
@@ -164,7 +164,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 9",
                         "description": "Description for the ninth project. Overview of key partnerships and collaborations.",
-                        "url": "https://www.projecturl9.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image19.png",
                         "altText": "Image for Project 9",
                         "date": "2023-10-01",
@@ -173,7 +173,7 @@ class ProjectCardManager {
                     {
                         "title": "Project Title 10",
                         "description": "Description for the tenth project. Highlights of feedback and testimonials.",
-                        "url": "https://www.projecturl10.com",
+                        "url": "https://github.com/ju-ra-96",
                         "image": "./img/image20.png",
                         "altText": "Image for Project 10",
                         "date": "2023-10-15",
@@ -188,7 +188,7 @@ class ProjectCardManager {
     // Fetch the projects from the remote server
     static async loadRemote() {
         try {
-            let response = await fetch('http://localhost:3003/projects');
+            let response = await fetch('https://my-json-server.typicode.com/ju-ra-96/cse134-hw4b/projects');
             if (!response.ok) {
                 throw new Error("Network response was not ok");
             }
